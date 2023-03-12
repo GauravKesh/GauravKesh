@@ -6,7 +6,7 @@ I'm Gaurav <br>
 
 # Technologies & Tools
 <div>
-<img src="./img/icons8-python.gif" title="Python">
+<img src="./img/icons8-python.gif" title="Python" style = "border-radius:20%;">
 
 <br>
 </div>
