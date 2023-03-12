@@ -16,4 +16,5 @@ I'm Gaurav <br>
 <a href="https://www.instagram.com" target="_blank">
     <img height="50" title="Instagram" src="https://iconscout.com/lottie/instagram-4865722"/>
   </a>
+  <br>
 </div>
