@@ -4,8 +4,4 @@ Hello,
 I'm Gaurav 
 </div>
 <br>
-<div>
- #Tools and Technologies
- </div>
- <br>
- 
+# Tools and Technologies
