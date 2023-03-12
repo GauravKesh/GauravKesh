@@ -4,6 +4,16 @@ Hello,
 I'm Gaurav <br>
 </div>
 
-# Tools and Technologies
+# Technologies & Tools
 <div>
+
+
+<br>
+</div>
+
+# Social Links
+<div>
+<a href="https://www.instagram.com/enes.log" target="_blank">
+    <img height="50" title="Instagram" src="https://iconscout.com/lottie/instagram-4865722"/>
+  </a>
 </div>
