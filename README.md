@@ -4,8 +4,7 @@ Hello,
 I'm Gaurav <br>
 </div>
 
-# Technologies & Tools  <img  title="Python" src="./img/tools.jpg"  width=50 height=50 border-radius=20>
-
+#  <img  title="Python" src="./img/tools.jpg"  width=50 height=50 border-radius=20> Technologies & Tools 
 <div>
 <img  title="Python" src="./img/icons8-python.gif"  width=50 height=50 border-radius=20>
 <img  title="Html" width=50 height=50 border-radius=20>
