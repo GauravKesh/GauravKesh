@@ -21,16 +21,13 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/)
  
 📈 **My GitHub Stats:**
-<p>  
+
 <img align-item="left" padding=20 margin=10 src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravKesh&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="GauravKesh" />
-
-
-
 
 <img align="right"   width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravKesh&theme=highcontrast&hide_border=true" alt="gauravkesh" />
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
- </p>
+
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=GauravKesh.github.io&theme=highcontrast&hide_border=true)](https://github.com/GauravKesh/GauravKesh.github.io)
