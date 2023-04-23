@@ -16,7 +16,7 @@ I'm Gaurav <br>
 
 # Social Links
 <div style= "margin:2px;" "padding:2px">
-<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by riajulislam - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons"  width=50 height=50 border-radius=20/> </a>
 
   <a href="https://www.instagram.com" target="_blank" >
     <img height="50" title="Twitter" src="https://iconscout.com/lottie/instagram-4865722"  width=50 height=50 border-radius=20/>
