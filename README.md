@@ -29,6 +29,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=plastic&logo=Telegram&logoColor=white)](https://t.me/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=plastic&logo=Discord&logoColor=white)](https://discord.com/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-listen?style=plastic&logo=DSpotify&logoColor=white)](https://spotify.com/)
+
 
 ### 📈 My GitHub Stats:
 
