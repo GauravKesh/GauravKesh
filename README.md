@@ -32,11 +32,10 @@
  
 #
   
- <p><img align-item="center" padding=20 margin=10 src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravKesh&show_icons=true&locale=en&layout=compact&theme=transparent" alt="GauravKesh" /></p>
+<img align-item="center" padding=20 margin=10 src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravKesh&show_icons=true&locale=en&layout=compact&theme=transparent" alt="GauravKesh" />
+<img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=GauravKesh&theme=transparent" alt="gauravkesh" />
 
-<p><img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=GauravKesh&theme=transparent" alt="gauravkesh" /></p>
-
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=GauravKesh.github.io&theme=transparent)](https://github.com/GauravKesh/GauravKesh.github.io)
 
