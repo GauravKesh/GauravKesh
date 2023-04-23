@@ -5,15 +5,21 @@
 
 ### ⚒️Technologies & Tools:
 
-<div>
-<img  title="Python" src="./img/icons8-python.gif"  width=50 height=50 border-radius=20>
-<img  title="Html" width=50 height=50 border-radius=20>
-<img  title="Css" width=50 height=50 border-radius=20>
-<img  title="Javascript" width=50 height=50 border-radius=20>
-
-
-</div>
-<br>
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 
 ### 📡My Social:
