@@ -20,7 +20,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/)
  
-# My Github Stats
+📈 **My GitHub Stats:**
   
 <img align-item="left" padding=20 margin=10 src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravKesh&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="GauravKesh" />
 
