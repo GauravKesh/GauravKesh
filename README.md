@@ -33,9 +33,12 @@
 #
   
 <img align-item="center" padding=20 margin=10 src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravKesh&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="GauravKesh" />
-<img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=GauravKesh&theme=highcontrast" alt="gauravkesh" />
 
 <img align="center" width="480" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
+
+<img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=GauravKesh&theme=highcontrast" alt="gauravkesh" />
+
+
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=GauravKesh.github.io&theme=highcontrast)](https://github.com/GauravKesh/GauravKesh.github.io)
