@@ -1,5 +1,8 @@
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=GauravKesh&label=Visitors&color=0e75b6&style=flat&theme=transparent" alt="GauravKesh" /> </p>
-<h1>Hi there, I'm Gaurav Kesh Roushan</h1>
+
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gaurav Kesh Roushan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+
 # Technologies & Tools 
 <div>
 <img  title="Python" src="./img/icons8-python.gif"  width=50 height=50 border-radius=20>
@@ -30,7 +33,7 @@
    </a>
  </div>
  
-# My Github stats
+# My Github Stats
   
 <img align-item="left" padding=20 margin=10 src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravKesh&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="GauravKesh" />
 
