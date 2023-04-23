@@ -10,10 +10,13 @@
 <img  title="Css" width=50 height=50 border-radius=20>
 <img  title="Javascript" width=50 height=50 border-radius=20>
 
-<br>
-</div>
 
-**My Social:**
+</div>
+<br>
+
+
+ **My Social:**
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]([https://](https://gauravkesh.github.io/))
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
