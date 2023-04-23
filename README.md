@@ -3,6 +3,8 @@
 
 ### <samp>&gt; Hi there, I'm <a href="https://gauravkesh.github.io" target="_blank">Gaurav Kesh Roushan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> </samp>
 
+<img align-item="right" width="500" height= "450" src="https://github.com/GauravKesh/GauravKesh/blob/85c30c04ff81face085fe7dfc6ae522ad0f76680/tools.jpg">
+
 
 ### ⚒️Technologies & Tools:
 
