@@ -14,24 +14,11 @@
 </div>
 
 # Social Links
-<div style= "margin:2" "padding:2">
-<a href="" title="instagram logo icons"  width=50 height=50 border-radius=20/> </a>
-
-  <a href="https://www.instagram.com" target="_blank" >
-    <img height="50" title="Twitter" src= width=50 height=50 border-radius=20/>
- </a>
-
- <a href="https://www.instagram.com" target="_blank">
-    <img height="50" title="Discord" src=  width=50 height=50 border-radius=20/>
- </a>
-    <a href="https://www.replit.com" target="_blank">
-    <img height="50" title="Replit" src=  width=50 height=50 border-radius=20/>
- </a>
-
-   <a href="https://youtube.com" target="_blank">
-    <img height="50" title="youtube" src=  width=50 height=50 border-radius=20/>
-   </a>
- </div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]([https://](https://gauravkesh.github.io/))
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/)
  
 # My Github Stats
   
