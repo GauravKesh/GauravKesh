@@ -28,7 +28,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=plastic&logo=Telegram&logoColor=white)](https://t.me/)
- 
+[![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=plastic&logo=Discord&logoColor=white)](https://discord.com/)
+
 ### 📈 My GitHub Stats:
 
 <img align-item="left" padding=20 margin=10 src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravKesh&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="GauravKesh" />
