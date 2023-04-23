@@ -1,9 +1,10 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=GauravKesh&label=Visitors&color=0e75b6&style=flat&theme=transparent" alt="GauravKesh" /> </p>
 
-### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gaurav Kesh Roushan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://gauravkesh.github.io" target="_blank">Gaurav Kesh Roushan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-# Technologies & Tools 
+**Technologies & Tools:**
+
 <div>
 <img  title="Python" src="./img/icons8-python.gif"  width=50 height=50 border-radius=20>
 <img  title="Html" width=50 height=50 border-radius=20>
@@ -32,7 +33,7 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
 
 
-**GitHub Extra Pins** 
+**GitHub Extra Pins:** 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=GauravKesh.github.io&theme=highcontrast&hide_border=true)](https://github.com/GauravKesh/GauravKesh.github.io)
 
