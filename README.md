@@ -6,9 +6,9 @@
 
  👨‍💻 I am a computer engineer and love programming, travelling and playing sports.
  - As a computer enginner, I try to make changes everyday and I keep learning about new tech.
- 
- <img align="right" width="300" height= "200" src="https://github.com/GauravKesh/GauravKesh/blob/main/img/coder.gif">
- 
+ <div>
+  <img align="right" width="300" height= "200" src="https://github.com/GauravKesh/GauravKesh/blob/main/img/coder.gif">
+ </div>
 ### 👨‍💻Talking about Personal Stuffs:
 
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/developer.gif" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
@@ -50,10 +50,10 @@
 
 <img align-item="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravKesh&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="GauravKesh" />
 
-
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
 
 ### 🎯Streak
+
  <img align="center"   width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravKesh&theme=highcontrast&hide_border=true" alt="gauravkesh" />
  
 ### 📌GitHub Extra Pins:
