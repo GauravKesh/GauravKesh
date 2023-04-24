@@ -55,6 +55,7 @@
 
 ### 🎯Streak
  <img align="center"   width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravKesh&theme=highcontrast&hide_border=true" alt="gauravkesh" />
+ 
 ### 📌GitHub Extra Pins:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=GauravKesh.github.io&theme=highcontrast&hide_border=true)](https://github.com/GauravKesh/GauravKesh.github.io)
