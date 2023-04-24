@@ -7,7 +7,7 @@
  👨‍💻 I am a computer engineer and love programming, travelling and playing sports.
  - As a computer enginner, I try to make changes everyday and I keep learning about new tech.
  
- <img align="right" width="200" height= "200" src="https://github.com/GauravKesh/GauravKesh/blob/85c30c04ff81face085fe7dfc6ae522ad0f76680/tools.jpg">
+ <img align="right" width="300" height= "205" src="https://github.com/GauravKesh/GauravKesh/blob/main/img/coder.gif">
  
 ### 👨‍💻Talking about Personal Stuffs:
 
