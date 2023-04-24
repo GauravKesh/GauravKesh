@@ -8,14 +8,14 @@
  
  As a computer enginner, I try to make changes everyday and I keep learning about new tech.
  
- <img align="right" width="300" height= "300" src="https://github.com/GauravKesh/GauravKesh/blob/85c30c04ff81face085fe7dfc6ae522ad0f76680/tools.jpg">
+ <img align="right" width="200" height= "200" src="https://github.com/GauravKesh/GauravKesh/blob/85c30c04ff81face085fe7dfc6ae522ad0f76680/tools.jpg">
  
 ## Talking about Personal Stuffs:
 
-- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/developer.gif" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/lightning.gif" width="21" />&nbsp;&nbsp; I’m currently learning Javascripts .
-- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/message.gif" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: gkrcoder@gmail.com;
+- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/developer" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/lightning" width="21" />&nbsp;&nbsp; I’m currently learning Javascripts;
+- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/message" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/letterbox" width="21" />&nbsp;&nbsp; How to reach me: gkrcoder@gmail.com;
 
 
 ### ⚒️Technologies & Tools:
