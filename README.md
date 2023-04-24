@@ -4,13 +4,12 @@
 ### <samp>&gt; Hi there, I'm <a href="https://gauravkesh.github.io" target="_blank">Gaurav Kesh Roushan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> </samp>
 
 
- I am a computer engineer and love programming, travelling and playing sports.
- 
- As a computer enginner, I try to make changes everyday and I keep learning about new tech.
+ 👨‍💻 I am a computer engineer and love programming, travelling and playing sports.
+ - As a computer enginner, I try to make changes everyday and I keep learning about new tech.
  
  <img align="right" width="200" height= "200" src="https://github.com/GauravKesh/GauravKesh/blob/85c30c04ff81face085fe7dfc6ae522ad0f76680/tools.jpg">
  
-## Talking about Personal Stuffs:
+### 👨‍💻Talking about Personal Stuffs:
 
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/developer" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/lightning" width="21" />&nbsp;&nbsp; I’m currently learning Javascripts;
@@ -56,7 +55,7 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
 
 
-### GitHub Extra Pins:
+### 📌GitHub Extra Pins:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=GauravKesh.github.io&theme=highcontrast&hide_border=true)](https://github.com/GauravKesh/GauravKesh.github.io)
 
