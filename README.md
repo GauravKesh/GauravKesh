@@ -5,7 +5,7 @@
 
 
  I am a 👨‍🎓Student, 👨‍💻Computer engineer and love programming, 🧳travelling and 🏃‍♂️playing sports.
- - As a computer engineer, I try to make changes everyday and I keep learning about new tech.
+- As a computer engineer, I try to make changes everyday and I keep learning about new tech.
  <div>
    <img align="right" width="300" height= "150" src="https://github.com/GauravKesh/GauravKesh/blob/main/img/coder.gif">
  </div>
