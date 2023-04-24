@@ -9,6 +9,7 @@
  <div>
   <img align="right" width="300" height= "200" src="https://github.com/GauravKesh/GauravKesh/blob/main/img/coder.gif">
  </div>
+ 
 ### 👨‍💻Talking about Personal Stuffs:
 
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/developer.gif" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
