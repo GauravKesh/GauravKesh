@@ -11,7 +11,7 @@
  </div>
  
  
- ### 👨‍💻Talking about Personal Stuffs:
+ ### 👨‍💻 Talking about Personal Stuffs:
 
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/developer.gif" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/lightning.gif" width="21" />&nbsp;&nbsp; I’m currently learning Javascripts;
@@ -19,7 +19,7 @@
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: gkrcoder@gmail.com;
 
 
-### ⚒️Technologies & Tools:
+### ⚒️ Technologies & Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
