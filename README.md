@@ -38,7 +38,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 
-### 📡My Social:
+###📡 My Social:
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://linkedin.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/)
@@ -54,11 +54,11 @@
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
 
-### 🎯Streak
+### 🎯 Streak:
 
  <img align="center"   width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravKesh&theme=highcontrast&hide_border=true" alt="gauravkesh" />
  
-### 📌GitHub Extra Pins:
+### 📌 GitHub Extra Pins:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=GauravKesh.github.io&theme=highcontrast&hide_border=true)](https://github.com/GauravKesh/GauravKesh.github.io)
 
