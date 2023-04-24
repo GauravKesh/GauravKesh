@@ -4,7 +4,7 @@
 ### <samp>&gt; Hi there, I'm <a href="https://gauravkesh.github.io" target="_blank">Gaurav Kesh Roushan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> </samp>
 
 
- I am a 👨‍🎓Student, 👨‍💻Computer engineer and love programming, 🧳travelling and 🏃‍♂️playing sports.
+- I am a 👨‍🎓Student, 👨‍💻Computer engineer and love programming, 🧳travelling and 🏃‍♂️sports man.
 - As a computer engineer, I try to make changes everyday and I keep learning about new tech.
  <div>
    <img align="right" width="300" height= "150" src="https://github.com/GauravKesh/GauravKesh/blob/main/img/coder.gif">
