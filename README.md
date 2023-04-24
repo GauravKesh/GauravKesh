@@ -38,7 +38,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 
-###📡 My Social:
+### 📡 My Social:
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://linkedin.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/)
