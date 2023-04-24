@@ -3,8 +3,23 @@
 
 ### <samp>&gt; Hi there, I'm <a href="https://gauravkesh.github.io" target="_blank">Gaurav Kesh Roushan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> </samp>
 
-<img align-item="right" width="500" height= "450" src="https://github.com/GauravKesh/GauravKesh/blob/85c30c04ff81face085fe7dfc6ae522ad0f76680/tools.jpg">
 
+ I am a computer engineer and love programming, travelling and playing sports.
+ 
+ As a computer enginner, I try to make changes everyday and I keep learning about new tech.
+ 
+ <img align="right" width="300" height= "300" src="https://github.com/GauravKesh/GauravKesh/blob/85c30c04ff81face085fe7dfc6ae522ad0f76680/tools.jpg">
+ 
+## Talking about Personal Stuffs:
+
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
+
+</br>
 
 ### ⚒️Technologies & Tools:
 
@@ -47,4 +62,5 @@
 ### GitHub Extra Pins:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=GauravKesh.github.io&theme=highcontrast&hide_border=true)](https://github.com/GauravKesh/GauravKesh.github.io)
+
 
