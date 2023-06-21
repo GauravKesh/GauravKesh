@@ -50,9 +50,9 @@
 
 ### 📈 My GitHub Stats:
 
-<img align-item="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravKesh&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="GauravKesh" />
+<img align-item="left" width="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravKesh&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="GauravKesh" />
 
-<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
 
 ### 🎯 Streak:
 
