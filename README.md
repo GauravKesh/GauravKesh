@@ -30,6 +30,8 @@
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
