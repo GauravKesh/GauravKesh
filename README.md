@@ -14,24 +14,24 @@
  ### 👨‍💻 Talking about Personal Stuffs:
 
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/developer.gif" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/lightning.gif" width="21" />&nbsp;&nbsp; I’m currently learning Javascripts;
+- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/lightning.gif" width="21" />&nbsp;&nbsp; I’m currently learning c++;
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/message.gif" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: gkrcoder@gmail.com;
 
 
 ### ⚒️ Technologies & Tools:
 
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c++)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
