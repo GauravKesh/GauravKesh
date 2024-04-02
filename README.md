@@ -21,30 +21,33 @@
 
 ### ⚒️ Technologies & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=replit)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
 
 
 ### 📡 My Social:
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/gaurav-kesh-roushan-100b631aa?original_referer=https%3A%2F%2Fwww.google.com%2F)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/gkrcoder)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/gkrcoder_)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/gkrcoder)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=plastic&logo=Telegram&logoColor=white)](https://t.me/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=plastic&logo=Discord&logoColor=white)](https://discord.com/G_hack#5481)
 
