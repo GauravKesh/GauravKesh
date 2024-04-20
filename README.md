@@ -64,6 +64,6 @@
  
 ### 📌 GitHub Extra Pins:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=GauravKesh.github.io&theme=highcontrast&hide_border=true)](https://github.com/GauravKesh/GauravKesh.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=GauravKesh.github.io&theme=highcontrast&hide_border=true)](https://github.com/GauravKesh/Data_Structures_and_Algorithm)
 
 
