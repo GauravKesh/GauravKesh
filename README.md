@@ -64,6 +64,6 @@
  
 ### 📌 GitHub Extra Pins:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=Data_Structures_and_Algorithm&theme=highcontrast&hide_border=true)](https://github.com/GauravKesh/Data_Structures_and_Algorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=Data_Structures_and_Algorithm&description=Learn_DSA_in_C++&theme=highcontrast&hide_border=true)](https://github.com/GauravKesh/Data_Structures_and_Algorithm)
 
 
