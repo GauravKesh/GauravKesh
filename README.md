@@ -51,7 +51,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=plastic&logo=Telegram&logoColor=white)](https://t.me/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=plastic&logo=Discord&logoColor=white)](https://discord.com/G_hack#5481)
 
-### Trophies
+### 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GauravKesh&theme=monokai)](https://github.com/gauravkesh/github-profile-trophy)
 
