@@ -56,16 +56,35 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=GauravKesh&theme=monokai)](https://github.com/gauravkesh/github-profile-trophy)
 
 
-### 📈 My GitHub Stats:
 
+
+### Languages
 <img align-item="left" width="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravKesh&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="GauravKesh" />
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravkesh&theme=highcontrast)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravkesh&theme=highcontrast)
+
+### 📈 My GitHub Stats:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravkesh&theme=highcontrast)
+
+ 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
 
 ### 🎯 Streak:
 
  <img align="center"   width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravKesh&theme=highcontrast&hide_border=true" alt="gauravkesh" />
  
+### Commits
+ 
+
+
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gauravkesh&theme=highcontrast)
+
+
 ### 📌 GitHub Extra Pins:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GauravKesh&repo=Data_Structures_and_Algorithm&description=Learn_DSA_in_C++&theme=highcontrast&hide_border=true)](https://github.com/GauravKesh/Data_Structures_and_Algorithm)
