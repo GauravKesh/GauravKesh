@@ -56,6 +56,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=GauravKesh&theme=monokai)](https://github.com/gauravkesh/github-profile-trophy)
 
 
+## 🌟 Check Out My Codolio Profile!
+
+I showcase my coding projects, contributions, and achievements on Codolio. Click the link below to explore:
+
+[![Codolio Profile](https://img.shields.io/badge/Codolio_Profile-00acee?style=plastic&logo=Codolio&logoColor=white)](https://codolio.com/profile/gkrcoder)
+
 
 
 ### Languages
