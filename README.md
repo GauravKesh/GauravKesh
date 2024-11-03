@@ -56,6 +56,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=GauravKesh&theme=monokai)](https://github.com/gauravkesh/github-profile-trophy)
 
 
+ <summary><b>Badges 🪶</b></summary><br>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
+</div>
+
+
+
 
 
 
