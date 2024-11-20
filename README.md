@@ -84,9 +84,13 @@
  <img align="center"   width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravKesh&theme=highcontrast&hide_border=true" alt="gauravkesh" />
 
 ### Leetcode
-![](https://leetcode-badge-showcase.vercel.app/api?username=gkrcoder&theme=black&border=border&animated=true)
-<br>
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/gkrcoder?theme=dark&font=Peralta&ext=heatmap)
+<div align="center">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=gkrcoder&theme=black&border=border&animated=true" alt="LeetCode Badge"/>
+    <br><br>
+    <img src="https://leetcard.jacoblin.cool/gkrcoder?theme=dark&font=Peralta&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+
 
 
 ### Commits
