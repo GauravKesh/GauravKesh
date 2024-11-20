@@ -82,10 +82,14 @@
 ### 🎯 Streak:
 
  <img align="center"   width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravKesh&theme=highcontrast&hide_border=true" alt="gauravkesh" />
- 
-### Commits
- 
 
+### Leetcode
+![](https://leetcode-badge-showcase.vercel.app/api?username=gkrcoder&theme=black&border=border&animated=true)
+<br>
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/gkrcoder?theme=dark&font=Peralta&ext=heatmap)
+
+
+### Commits
 
 
 
