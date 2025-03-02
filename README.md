@@ -75,9 +75,10 @@
 ### 📈 My GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravkesh&theme=highcontrast)
+<img align="center" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkesh&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true"/>
 
  
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
+
 
 ### 🎯 Streak:
 
