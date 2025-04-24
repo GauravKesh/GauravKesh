@@ -1,17 +1,17 @@
-<div style="relative: absolute; top: 0; right: 0; padding: 10px; display: flex; gap: 10px;">
+<!--<div style="relative: absolute; top: 0; right: 0; padding: 10px; display: flex; gap: 10px;">
   <a href="https://wakatime.com/@9a0cecb3-8e78-4ad9-a36a-5893e75079f2">
     <img src="https://wakatime.com/badge/user/9a0cecb3-8e78-4ad9-a36a-5893e75079f2.svg" alt="Wakatime Profile Badge" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=GauravKesh&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-<!-- 
+-->
 <p align="right">
-  <a href="https://wakatime.com/@9a0cecb3-8e78-4ad9-a36a-5893e75079f2">
+ <!-- <a href="https://wakatime.com/@9a0cecb3-8e78-4ad9-a36a-5893e75079f2">
     <img src="https://wakatime.com/badge/user/9a0cecb3-8e78-4ad9-a36a-5893e75079f2.svg" alt="Wakatime Profile Badge" />
-  </a>
+  </a>-->
   <img src="https://komarev.com/ghpvc/?username=GauravKesh&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-!-->
+
 
 
 ### <samp>&gt; Hi there, I'm <a href="https://gauravkesh.github.io" target="_blank">Gaurav Kesh Roushan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> </samp>
