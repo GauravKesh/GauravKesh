@@ -32,7 +32,7 @@
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: gkrcoder@gmail.com;
   
 
-[![committers.top badge](https://user-badge.committers.top/india/USERNAME.svg)](https://user-badge.committers.top/india/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/india/USERNAME.svg)](https://user-badge.committers.top/india/gauravkesh)
 
 ### ⚒️ Technologies & Tools:
 
