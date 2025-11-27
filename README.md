@@ -191,7 +191,7 @@ const gaurav = {
 
 ### 💻 Most Used Languages
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkesh&layout=compact&hide_border=true&theme=algolia&bg_color=0D1117&title_color=00C7B7&text_color=ffffff&langs_count=8&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkesh&layout=compact&hide_border=true&theme=algolia&bg_color=0D1117&title_color=00C7B7&text_color=ffffff&langs_count=15&border_radius=10"/>
 
 <br>
 
