@@ -34,26 +34,130 @@
 
 [![committers.top badge](https://user-badge.committers.top/india/GauravKesh.svg)](https://user-badge.committers.top/india/GauravKesh)
 ### ⚒️ Technologies & Tools:
+**Tools and technologies I've worked with:**
 
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=replit)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
+<table>
+
+  <!-- FRONTEND -->
+  <tr>
+    <th align="left">🎨 Frontend</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" height="45"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
+      <img src="https://skillicons.dev/icons?i=vue" height="45"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+      <img src="https://skillicons.dev/icons?i=html" height="45"/>
+      <img src="https://skillicons.dev/icons?i=css" height="45"/>
+    </td>
+  </tr>
+
+  <!-- BACKEND -->
+  <tr>
+    <th align="left">🖥 Backend</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+      <img src="https://skillicons.dev/icons?i=express" height="45"/>
+      <img src="https://skillicons.dev/icons?i=django" height="45"/>
+      <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+      <img src="https://skillicons.dev/icons?i=flask" height="45"/>
+      <img src="https://skillicons.dev/icons?i=graphql" height="45"/>
+      <img src="https://skillicons.dev/icons?i=php" height="45"/>
+    </td>
+  </tr>
+
+  <!-- DATABASES -->
+  <tr>
+    <th align="left">🗄 Databases / Cache</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+      <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+      <img src="https://skillicons.dev/icons?i=redis" height="45"/>
+      <img src="https://skillicons.dev/icons?i=firebase" height="45"/>
+    </td>
+  </tr>
+
+  <!-- CLOUD & DEVOPS -->
+  <tr>
+    <th align="left">⚙️ Cloud & DevOps</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" height="45"/>
+      <img src="https://skillicons.dev/icons?i=gcp" height="45"/>
+      <img src="https://skillicons.dev/icons?i=docker" height="45"/>
+      <img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
+      <img src="https://skillicons.dev/icons?i=heroku" height="45"/>
+      <img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
+      <img src="https://skillicons.dev/icons?i=nginx" height="45"/>
+      <img src="https://skillicons.dev/icons?i=cloudflare" height="45"/>
+      <img src="https://skillicons.dev/icons?i=vercel" height="45"/>
+      <img src="https://skillicons.dev/icons?i=netlify" height="45"/>
+      <img src="https://skillicons.dev/icons?i=railway" height="45"/>
+    </td>
+  </tr>
+
+  <!-- MESSAGE QUEUES / ARCHITECTURE -->
+  <tr>
+    <th align="left">📡 Message Queues / Architecture</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=kafka" height="45"/>
+      <img src="https://skillicons.dev/icons?i=redis" height="45"/> <!-- Redis Streams -->
+    </td>
+  </tr>
+
+  <!-- CI/CD -->
+  <tr>
+    <th align="left">🛠 CI/CD & Infra</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jenkins" height="45"/>
+      <img src="https://skillicons.dev/icons?i=gitlab" height="45"/>
+      <img src="https://skillicons.dev/icons?i=terraform" height="45"/>
+    </td>
+  </tr>
+
+  <!-- AI & ML -->
+  <tr>
+    <th align="left">🤖 AI / ML</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+    </td>
+  </tr>
+
+  <!-- LANGUAGES -->
+  <tr>
+    <th align="left">🧑‍💻 Programming Languages</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+      <img src="https://skillicons.dev/icons?i=java" height="45"/>
+      <img src="https://skillicons.dev/icons?i=py" height="45"/>
+      <img src="https://skillicons.dev/icons?i=js" height="45"/>
+      <img src="https://skillicons.dev/icons?i=ts" height="45"/>
+      <img src="https://skillicons.dev/icons?i=go" height="45"/>
+      <img src="https://skillicons.dev/icons?i=rust" height="45"/>
+      <img src="https://skillicons.dev/icons?i=c" height="45"/>
+    </td>
+  </tr>
+
+  <!-- TOOLS -->
+  <tr>
+    <th align="left">🧰 Tools & IDEs</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="45"/>
+      <img src="https://skillicons.dev/icons?i=github" height="45"/>
+      <img src="https://skillicons.dev/icons?i=postman" height="45"/>
+      <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+      <img src="https://skillicons.dev/icons?i=pycharm" height="45"/>
+      <img src="https://skillicons.dev/icons?i=clion" height="45"/>
+      <img src="https://skillicons.dev/icons?i=figma" height="45"/>
+       <img src="https://skillicons.dev/icons?i=replit" height="45"/>
+      <img src="https://skillicons.dev/icons?i=codesandbox" height="45"/> <!-- VibeCoding alt -->
+    </td>
+  </tr>
+
+</table>
+
+
 
 
 
