@@ -257,7 +257,7 @@ const gaurav = {
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="30" height="30" /> What I'm Up To
+## <img src="img/icons8-bullseye.gif" alt="Bullseye" width="30" height="30" /> What I'm Up To
 
 <table>
 <tr>
