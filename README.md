@@ -184,7 +184,8 @@ const gaurav = {
 
 ### 📈 Overall Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GauravKesh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=ffffff&border_radius=10" />
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/gauravkesh?cardType=level&theme=radical&fontFamily=&preferLogin=false" height="160" />
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravKesh&theme=algolia&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C7B7&sideLabels=00C7B7&dates=ffffff&border_radius=10" />
 
 <br>
